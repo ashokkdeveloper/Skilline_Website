@@ -10,7 +10,7 @@
 
   Skilline is fully responsive educational website made using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/skilline-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ashokkdeveloper-skillinewebsite.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
