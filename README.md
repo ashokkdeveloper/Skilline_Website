@@ -4,7 +4,7 @@ Modern responsive **educational website** design made with **HTML and CSS**.
 
 ⚠️ **All names, information, and images used are demo content and do not represent any real organization.** ⚠️
 
-Live demo can be found under this [**link**](ashokkdeveloper-skillinewebsite.netlify.app) 
+Live demo can be found under this [**link**](https://ashokkdeveloper-skillinewebsite.netlify.app/) 
 
 ---
 
