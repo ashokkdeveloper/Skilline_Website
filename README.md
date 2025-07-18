@@ -10,7 +10,8 @@ Live demo can be found under this [**link**](https://your-netlify-link-here.netl
 
 ## 📸 Preview
 
-<img width="1920" height="10300" alt="Image" src="https://github.com/user-attachments/assets/b014a584-aea9-45a4-8ac7-d14fb98476e0" />
+![Skilline Website Preview](https://github.com/user-attachments/assets/b014a584-aea9-45a4-8ac7-d14fb98476e0)
+
 
 ---
 
