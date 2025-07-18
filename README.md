@@ -4,7 +4,7 @@ Modern responsive **educational website** design made with **HTML and CSS**.
 
 ⚠️ **All names, information, and images used are demo content and do not represent any real organization.** ⚠️
 
-Live demo can be found under this [**link**](https://ashokkdeveloper-skillinewebsite.netlify.app/) 
+Live demo can be found under this [**Skilline Website**](https://ashokkdeveloper-skillinewebsite.netlify.app/) 
 
 ---
 
@@ -41,7 +41,3 @@ Live demo can be found under this [**link**](https://ashokkdeveloper-skillineweb
 ## Acknowledgments
 - Placeholder assets used for demo purposes only
 - [**Original Figma Design**](https://www.figma.com/design/OxaL4THwngsspylj9E38wr/Skilline-Online-Learining-Landing-Page--Community-?node-id=504-24&t=JVXR7Bn8HhaoEKeC-0)
-
----
-
-Feel free to use this template to kickstart your educational project!
