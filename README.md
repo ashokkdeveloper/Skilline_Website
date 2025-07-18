@@ -38,9 +38,9 @@ Live demo can be found under this [**link**](https://your-netlify-link-here.netl
 
 ---
 
-## 🙏 Acknowledgments
-- Design inspired by modern EdTech platforms
+## Acknowledgments
 - Placeholder assets used for demo purposes only
+- [**Original Figma Design**](https://www.figma.com/design/OxaL4THwngsspylj9E38wr/Skilline-Online-Learining-Landing-Page--Community-?node-id=504-24&t=JVXR7Bn8HhaoEKeC-0)
 
 ---
 
