@@ -1,4 +1,4 @@
-# Skilline - Educational Website Template
+# Skilline - Educational Website 
 
 Modern responsive **educational website** design made with **HTML and CSS**.
 
